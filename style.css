@@ -64,5 +64,19 @@
 .development{
     text-align: center;
 }
+/* i'll come back to do the hover effect and transition effect */
 
 
+
+.contactus{
+    text-align: center;
+    background-image: url(png/c_image.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+.social{
+    text-align: center;
+}
