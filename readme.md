@@ -8,7 +8,8 @@ download the app from the website
 extract the files after installation
 open the app and accept the rights and policy
 enjoy the application
-## Live link https://stoksociety.github.io/week3/
+## Live link 
+https://stoksociety.github.io/week3/
 
 
 # Known Bugs :[the app can input incorrect data but it will automatically recorrect itself]
