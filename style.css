@@ -73,10 +73,10 @@
     background-image: url(png/c_image.jpg);
     background-position: center center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     color: white;
     
 }
 .social{
-    text-align: center;
+    text-align:center;
 }
