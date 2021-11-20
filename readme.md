@@ -14,9 +14,7 @@ enjoy the application
 # Known Bugs :[the app can input incorrect data but it will automatically recorrect itself]
 # languages Used in writing the application
 HTML.
-
 BOOTSTRAP
-
 CSS.
 JQUERY
 JAVASCRIPT.
