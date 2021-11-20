@@ -35,8 +35,8 @@
 
 $(document).ready(function(){
   $("#design").click(function(){
-   $("#design").toggle();
-   $("#design").toggle();
+   $(".design").toggle();
+   $(".design").toggle();
   });
    
   $(".development").click(function(){

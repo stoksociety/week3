@@ -1,18 +1,17 @@
 
 .first{
-    text-align: center;
+    text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
     background-image: url(png/h_img.jpg);
-    width: 116rem;
-    margin-left: -120rem;
-    height: 180vh;
-    float: left;
-    padding:110px;
-    margin-right: 5rem;
-    max-height:130vh;
-   color: aliceblue;
-   background-position:top right;
-   
+    width:90rem;
+    margin-left:-10rem;
+    height:-250;
+    max-height:50vh;
+    margin-top: -30vh;
+    margin-bottom:0vh;
+     padding:120vh;
+    color: aliceblue;
+   min-height:10;
 }
 
 .welcome{
