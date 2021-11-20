@@ -29,7 +29,9 @@
 }
 .mouse{
     text-align: center;
-    background-color: black;
+    background-color:white;
+    top: 50rem;
+    padding-top: 50;
    }
       
 #bounce{

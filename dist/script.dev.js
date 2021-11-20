@@ -29,4 +29,10 @@
 //       $("#product-image").slideDown('1500');
 //     });
 //   });
+// $(document).ready(function(){
+// $(".design").click(function()
+// $("design").hide(1200))
+// $(".design").toggle(1200)
+// $(".design").show(1200)
+// })
 "use strict";
