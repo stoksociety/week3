@@ -1,7 +1,8 @@
 # Delani studio
 # [this application is about creating job opportunities to our young developers in Africa , {2021}
 ## made by the elite.inc.
-# Description : this web app is very intresting since it allows the developer to do some simple tasks to ascertain their skills, then get employed by the companies bosses and be a leader in the new future
+# Description : 
+this web app is very intresting since it allows the developer to do some simple tasks to ascertain their skills, then get employed by the companies bosses and be a leader in the new future
 ## Setup/Installation Requirements
 follow the link below https://github.com/stoksociety/week3.git
 download the app from the website
