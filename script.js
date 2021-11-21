@@ -34,11 +34,11 @@
 
 
 $(document).ready(function(){
-  $("#design").click(function(){
-   $(".design").toggle();
-   $(".design").toggle();
-  });
-   
+ $(".design").click(function(){
+ $("#design").toggle();
+ $("#design").toggle();
+ });
+
   $(".development").click(function(){
    $("#development").toggle();
    $("#development").toggle();
@@ -51,7 +51,7 @@ $(document).ready(function(){
 
   //hover function for the portfolio images
   $("#work1").hover(function(){
-   $(".black studio").toggle();
+   $(".blackstudio").toggle();
   });
 
   $("#work2").hover(function(){
