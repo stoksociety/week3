@@ -55,17 +55,17 @@
 
 .aboutus{
     text-align: center;
-    height: 20vh;
+    height:50vh;
 
 }
 .services{
     text-align: center;
     background-image: url(png/s_image.jpg);
     color: aliceblue;
-    height: 20rem;
-    max-height: -10rem;
-    width: 105rem;
-    margin-right: -50rem;
+    height:70vh;
+    width: 85rem;
+    margin-right:30rem;
+
 }
 .do{
       text-align: center;
@@ -83,7 +83,7 @@
 /* i'll come back to do the hover effect and transition effect */
 .portfolio{
      text-align: center;
-     margin-right: -25vh;
+     width: 85rem;
      
 }
 .form-control{
@@ -98,6 +98,7 @@
 .contactus{
     text-align: center;
     margin-right: -25vh;
+    width: 90rem;
 }
 
 
