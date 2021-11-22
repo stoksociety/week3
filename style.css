@@ -5,20 +5,20 @@
     background-image: url(png/h_img.jpg);
     background-size: cover;
     padding-top:-60px;
-    width: 140rem;
+    width: 137rem;
     margin-left:-50rem;
     height:-400vh;
     max-height:50vh;
     margin-top: -30vh;
     margin-bottom:0vh;
-     padding:100vh;
+     padding:80vh;
     color: aliceblue;
    
 }
 
 .welcome{
     
-    text-align:center;
+    text-align:right;
      text-align: 40px;
      height:20vh;
     color: rgb(255, 255, 255);
@@ -63,7 +63,7 @@
     background-image: url(png/s_image.jpg);
     color: aliceblue;
     height:70vh;
-    width: 85rem;
+    width: 90rem;
     margin-right:30rem;
 
 }
@@ -83,7 +83,7 @@
 /* i'll come back to do the hover effect and transition effect */
 .portfolio{
      text-align: center;
-     width: 85rem;
+     width: 90rem;
      
 }
 .form-control{
