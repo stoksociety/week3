@@ -6,12 +6,12 @@
     background-size: cover;
     padding-top:-60px;
     width: 140rem;
-    margin-left:-55rem;
-    height:-350vh;
+    margin-left:-50rem;
+    height:-400vh;
     max-height:50vh;
     margin-top: -30vh;
     margin-bottom:0vh;
-     padding:120vh;
+     padding:100vh;
     color: aliceblue;
    
 }
@@ -64,8 +64,8 @@
     color: aliceblue;
     height: 20rem;
     max-height: -10rem;
-    width: 85rem;
-    
+    width: 105rem;
+    margin-right: -50rem;
 }
 .do{
       text-align: center;
@@ -83,6 +83,7 @@
 /* i'll come back to do the hover effect and transition effect */
 .portfolio{
      text-align: center;
+     margin-right: -25vh;
      
 }
 .form-control{
@@ -96,6 +97,7 @@
 }
 .contactus{
     text-align: center;
+    margin-right: -25vh;
 }
 
 
