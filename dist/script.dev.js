@@ -68,4 +68,20 @@ $(document).ready(function () {
   $("#work8").hover(function () {
     $(".giraffe").toggle();
   });
+
+  function validateForm() {
+    var a = document.forms["contactUs"]["NAME"].value;
+
+    if (a == null || a == "") {
+      alert("Name must be filled out");
+      return false;
+    }
+
+    var b = document.forms["contactUs"]["EMAIL"].value;
+
+    if (b == null || b == "") {
+      alert("Email must be filled out");
+      return false;
+    }
+  }
 });
