@@ -31,17 +31,29 @@
 //     });
 //   });
 $(document).ready(function () {
-  $(".design").click(function () {
-    $("#design").toggle();
-    $("#design").toggle();
+  $("#img").click(function () {
+    $(".ddesign").slideToggle();
+    $("#img").slideToggle();
+  });
+  $(".ddesign").click(function () {
+    $("#img").slideToggle();
+    $(".ddesign").slideToggle();
+  });
+  $("#development").click(function () {
+    $(".development").slideToggle();
+    $("#development").toggle();
   });
   $(".development").click(function () {
-    $("#development").toggle();
-    $("#development").toggle();
+    $("#development").slideToggle();
+    $(".development").toggle();
   });
-  $(".product management").click(function () {
-    $("#product development").toggle();
-    $("#product development").toggle();
+  $("#productdevelopment").click(function () {
+    $(".productmanagement").slideToggle();
+    $("#productdevelopment").toggle();
+  });
+  $(".productmanagement").click(function () {
+    $("#productdevelopment").slideToggle();
+    $(".productmanagement").slideToggle();
   }); //hover function for the portfolio images
 
   $("#work1").hover(function () {
